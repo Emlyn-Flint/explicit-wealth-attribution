@@ -71,7 +71,7 @@ The `base` case reproduces the main numerical example. The `pure_selection` case
 Flint, E., Chikurunhe, F. and van Schaik, L. (2026),  
 *Multiperiod Attribution: Who Needs Linking Functions?*, Peresec Quant Nugget.
 
-[Read the Quant Nugget](INSERT_LINK_HERE)
+[Read the Quant Nugget](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7345225)
 
 ## Scope
 
