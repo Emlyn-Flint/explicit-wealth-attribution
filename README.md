@@ -2,7 +2,7 @@
 
 Companion code for the August 2026 Peresec Quant Nugget:
 
-**Multiperiod Attribution: Who Needs Linking Functions?**  
+**Multi-Period Attribution: Who Needs Linking Functions?**  
 Emlyn Flint, Florence Chikurunhe and Luke van Schaik, 2026.
 
 The scripts reproduce the numerical examples in the note and compare:
